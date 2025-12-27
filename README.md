@@ -41,27 +41,27 @@ NYC_Airbnb_Tableau_Project/
 - Boroughs differ in room type composition, reflecting distinct market structures across New York City.
 
 ## Dashboard Preview
-![Dashboard Overview](visuals/dashboard_screenshots/dashboard_overview.png)
+![Dashboard Overview](NYC_Airbnb_Tableau_Project/visuals/dashboard_screenshots/dashboard_overview.png)
 
 ## Visual Breakdown
 
 ### NYC Price Map
-![NYC Price Map](visuals/dashboard_screenshots/nyc_price_map.png)
+![NYC Price Map](NYC_Airbnb_Tableau_Project/visuals/dashboard_screenshots/nyc_price_map.png)
 
 ### Median Price by Room Type
-![Median Price by Room Type](visuals/dashboard_screenshots/median_price_by_room_type.png)
+![Median Price by Room Type](NYC_Airbnb_Tableau_Project/visuals/dashboard_screenshots/median_price_by_room_type.png)
 
 ### Listings by Borough
-![Listings by Borough](visuals/dashboard_screenshots/listings_by_borough.png)
+![Listings by Borough](NYC_Airbnb_Tableau_Project/visuals/dashboard_screenshots/listings_by_borough.png)
 
 ### Price Distribution
-![Price Distribution](visuals/dashboard_screenshots/price_distribution.png)
+![Price Distribution](NYC_Airbnb_Tableau_Project/visuals/dashboard_screenshots/price_distribution.png)
 
 ### Median Availability by Borough
-![Median Availability by Borough](visuals/dashboard_screenshots/median_availability_by_borough.png)
+![Median Availability by Borough](NYC_Airbnb_Tableau_Project/visuals/dashboard_screenshots/median_availability_by_borough.png)
 
 ### Room Type Mix by Borough
-![Room Type Mix by Borough](visuals/dashboard_screenshots/room_type_mix_by_borough.png)
+![Room Type Mix by Borough](NYC_Airbnb_Tableau_Project/visuals/dashboard_screenshots/room_type_mix_by_borough.png)
 
 ## Next Steps
 - Incorporate time-based trends using review or calendar data
