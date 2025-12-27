@@ -2,7 +2,7 @@
 
 Copy–paste **this entire file**.
 
-```markdown
+```
 # Explaining the NYC Airbnb Market
 
 ## Overview
