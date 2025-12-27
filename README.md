@@ -18,7 +18,7 @@ How do location, room type, and availability influence Airbnb pricing and supply
 
 ## Repository Structure
 ```
-
+```
 NYC_Airbnb_Tableau_Project/
 │
 ├── data_raw/
