@@ -1,8 +1,3 @@
-## ✅ FINAL README.md (with repository structure)
-
-Copy–paste **this entire file**.
-
-```
 # Explaining the NYC Airbnb Market
 
 ## Overview
@@ -17,8 +12,6 @@ How do location, room type, and availability influence Airbnb pricing and supply
 - Public Airbnb dataset (Kaggle)
 
 ## Repository Structure
-```
-```
 NYC_Airbnb_Tableau_Project/
 │
 ├── data_raw/
@@ -38,8 +31,6 @@ NYC_Airbnb_Tableau_Project/
 │       └── room_type_mix_by_borough.png
 │
 └── README.md
-
-```
 
 ## Key Insights
 - Airbnb prices vary significantly by location, with higher median prices concentrated in Manhattan and select Brooklyn neighborhoods.
@@ -76,4 +67,3 @@ NYC_Airbnb_Tableau_Project/
 - Incorporate time-based trends using review or calendar data
 - Segment listings by regulatory status or host type
 - Extend analysis to compare NYC with other major cities
-```
